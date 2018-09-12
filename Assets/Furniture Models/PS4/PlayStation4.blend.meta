@@ -1,0 +1,157 @@
+fileFormatVersion: 2
+guid: 7a6afd17f48944bc388b0e2bd1ad7c1d
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Curve
+    100002: Curve_000
+    100004: Curve_001
+    100006: Curve_002
+    100008: Curve_005
+    100010: Curve_008
+    100012: Plane
+    100014: Plane_001
+    100016: Plane_002
+    100018: Plane_003
+    100020: //RootNode
+    400000: Curve
+    400002: Curve_000
+    400004: Curve_001
+    400006: Curve_002
+    400008: Curve_005
+    400010: Curve_008
+    400012: Plane
+    400014: Plane_001
+    400016: Plane_002
+    400018: Plane_003
+    400020: //RootNode
+    2100000: PlayStation_Controller_Darker
+    2100002: PlayStation_Main
+    2100004: Controller_light
+    2100006: PS4_Glossy_D-Pad
+    2100008: Home_button
+    2100010: Metal
+    2100012: PlayStation_Glossy
+    2100014: Blue_Plastic
+    2100016: Disc_Tray
+    2100018: Blue_Light
+    2100020: White_light
+    2100022: _SONY_
+    2100024: SVGMat_004
+    2100026: _PS4_
+    2100028: PlayStation_Logo
+    2300000: Curve
+    2300002: Curve_000
+    2300004: Curve_001
+    2300006: Curve_002
+    2300008: Curve_005
+    2300010: Curve_008
+    2300012: Plane
+    2300014: Plane_001
+    2300016: Plane_002
+    2300018: Plane_003
+    3300000: Curve
+    3300002: Curve_000
+    3300004: Curve_001
+    3300006: Curve_002
+    3300008: Curve_005
+    3300010: Curve_008
+    3300012: Plane
+    3300014: Plane_001
+    3300016: Plane_002
+    3300018: Plane_003
+    4300000: Plane_003
+    4300002: Plane_002
+    4300004: Plane
+    4300006: Curve_002
+    4300008: Curve
+    4300010: Curve_001
+    4300012: Curve_000
+    4300014: Curve_008
+    4300016: Curve_005
+    4300018: Plane_001
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 0
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
