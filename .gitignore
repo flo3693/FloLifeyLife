@@ -36,3 +36,4 @@ sysinfo.txt
 *.unitypackage
 Assets/ProBuilder Data/ProBuilderPreferences.asset
 Assets/.DS_Store
+.DS_Store
