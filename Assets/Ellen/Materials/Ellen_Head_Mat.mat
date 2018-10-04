@@ -4,7 +4,7 @@
 Material:
   serializedVersion: 6
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: Ellen_Head_Mat
   m_Shader: {fileID: 4800000, guid: 6e346c3fa450443dbaa9506ddb3a521d, type: 3}
@@ -110,11 +110,11 @@ Material:
     - fLightAttentuation: 5.32
     - iLTPower: 1.8
     m_Colors:
-    - _Color: {r: 0.9188304, g: 0.9339623, b: 0.58592916, a: 1}
+    - _Color: {r: 0.9150943, g: 0.9150943, b: 0.9150943, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _InternalColor: {r: 0.53676474, g: 0.015787214, b: 0.015787214, a: 1}
+    - _InternalColor: {r: 1, g: 1, b: 1, a: 1}
     - _SpecColor: {r: 1, g: 1, b: 1, a: 1}
-    - _SpecularColor: {r: 0.41384828, g: 0.9433962, b: 0.6433027, a: 0.32156864}
+    - _SpecularColor: {r: 1, g: 1, b: 1, a: 0.32156864}
     - _WindDir: {r: 1, g: 0, b: 0, a: 0}
     - _lightPosition: {r: -0.8, g: 1.43, b: 1.67, a: 0}
     - fLTAmbient: {r: 0.45588237, g: 0, b: 0, a: 1}

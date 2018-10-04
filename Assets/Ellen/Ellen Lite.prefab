@@ -3445,7 +3445,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: faa8b67e83b73fb4ba6b6a9b2482a664, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maxForwardSpeed: 8
+  maxForwardSpeed: 4
   gravity: 20
   jumpSpeed: 10
   minTurnSpeed: 400
@@ -3470,7 +3470,7 @@ SkinnedMeshRenderer:
   - {fileID: 2100000, guid: 3e3ab0a89c44e6f4aaeaae2f672efd6d, type: 2}
   - {fileID: 2100000, guid: 46ba9be6c4545f148aeea969a1f0bc1b, type: 2}
   - {fileID: 2100000, guid: 9ccf8b1016d42a84b953222267c693d9, type: 2}
-  - {fileID: 2100000, guid: fc14fcaf3cd73e641b94b89c70ce5f11, type: 2}
+  - {fileID: 2100000, guid: d61c089c1ae6a4111852501e470299f6, type: 2}
   - {fileID: 2100000, guid: f4c868f611aae16448d369b0bf66a723, type: 2}
   - {fileID: 2100000, guid: a022c48ded93f264c83844268add12a9, type: 2}
   m_StaticBatchInfo:
@@ -3599,10 +3599,10 @@ CharacterController:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Height: 1.8
+  m_Height: 1.6
   m_Radius: 0.4
   m_SlopeLimit: 45
   m_StepOffset: 0.3
   m_SkinWidth: 0.001
   m_MinMoveDistance: 0.01
-  m_Center: {x: 0, y: 0.901, z: 0}
+  m_Center: {x: 0, y: 0.88, z: 0}
